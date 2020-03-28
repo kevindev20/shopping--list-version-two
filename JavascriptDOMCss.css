@@ -1,0 +1,37 @@
+/*selector{
+	property:value;
+}*/
+html{
+	font-size: 160%
+}
+.kichwa{
+	text-align: right;
+}
+.headz{
+		list-style: none;
+		display: inline-block;
+
+}
+h1{
+	font-size: 2em;
+}
+
+
+
+
+.pulsate {
+    -webkit-animation: pulsate 3s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.5;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.5;
+    }
+}
