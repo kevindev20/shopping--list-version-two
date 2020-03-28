@@ -1,0 +1,19 @@
+{
+  "name": "shopping--list-version-two",
+  "version": "1.0.0",
+  "description": "We just warming up... PKB",
+  "main": "DomEvents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindev20/shopping--list-version-two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindev20/shopping--list-version-two/issues"
+  },
+  "homepage": "https://github.com/kevindev20/shopping--list-version-two#readme"
+}
