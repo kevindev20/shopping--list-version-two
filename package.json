@@ -4,7 +4,7 @@
   "description": "We just warming up... PKB",
   "main": "DomEvents.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify DomEvents.js > bundle.js && live-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kevindev20/shopping--list-version-two/issues"
   },
-  "homepage": "https://github.com/kevindev20/shopping--list-version-two#readme"
+  "homepage": "https://github.com/kevindev20/shopping--list-version-two#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }

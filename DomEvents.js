@@ -1,3 +1,10 @@
+
+var _ = require('lodash');
+//console.log(_);
+
+var arrayFood = ['apple','banana','carrot','githeri','orange'];
+console.log(_.without(arrayFood,'githeri'))
+
 var input =document.getElementById("userinput");
 var button =document.getElementById("enter");
 var ul  =document.querySelector("ul");
