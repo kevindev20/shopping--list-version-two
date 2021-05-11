@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kevindev20/shopping--list-version-two#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
